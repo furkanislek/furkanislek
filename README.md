@@ -7,19 +7,19 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Frontend Developer</h3>
 
- 🔭 I’m currently working on [React](https://app.patika.dev/courses/react)
+ 🔭 I’m currently working on [Backend Development]
 
- 🌱 I’m currently learning **React, JavaScript**
+ 🌱 I’m currently learning **NodeJs, Pyhton**
 
- 👯 I’m looking to collaborate on **Html,Css,JavaScript and React**
+ 👯 I’m looking to collaborate on **Html, Css, JavaScript, React, Redux, Redux Toolkit**
 
  🤝 I’m looking for help with **Frontend Developer**
 
  👨‍💻 All of my projects are available at [https://github.com/furkanislek](https://github.com/furkanislek)
 
- 📝 I regularly write articles on [furkanislek.com](furkanislek.com)
+ 📝 I regularly write articles on [furkanislek](furkanislek.vercel.app)
 
- 💬 Ask me about **Html,Css,Javascript and React**
+ 💬 Ask me about **Html, Css, Javascript, React, Redux and Redux Toolkit**
 
  📫 How to reach me **furkanakifislek@gmail.com**
 
