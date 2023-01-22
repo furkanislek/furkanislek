@@ -17,8 +17,7 @@
 
  👨‍💻 All of my projects are available at [https://github.com/furkanislek](https://github.com/furkanislek)
 
- 📝 I regularly write articles on [furkanislek.vercel.app][(furkanislek.vercel.app)](https://furkanislek.vercel.app/)
-
+ 📝 I regularly write articles on [furkanislek.vercel.app][(https://furkanislek.vercel.app/)]
  💬 Ask me about **Html, Css, Javascript, React, Redux and Redux Toolkit**
 
  📫 How to reach me **furkanakifislek@gmail.com**
