@@ -9,7 +9,7 @@
 
  🔭 I’m currently working on [Backend Development]
 
- 🌱 I’m currently learning **NodeJs, Pyhton**
+ 🌱 I’m currently learning **NodeJs, Express, SQL, Pyhton**
 
  👯 I’m looking to collaborate on **Html, Css, JavaScript, React, Redux, Redux Toolkit**
 
