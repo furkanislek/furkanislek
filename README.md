@@ -9,17 +9,17 @@
 
  🔭 I’m currently working on [Backend Development]
 
- 🌱 I’m currently learning **NodeJs, Express, SQL, Pyhton**
+ 🌱 I’m currently learning **MongoDB**
 
- 👯 I’m looking to collaborate on **Html, Css, JavaScript, React, Redux, Redux Toolkit**
+ 👯 I’m looking to collaborate on **Html, Css, Javascript, React, Redux, Redux Toolkit, MySQL, SQL, PostgreSQL, Express, NodeJs, Python**
 
- 🤝 I’m looking for help with **Frontend Developer**
+ 🤝 I’m looking for help with **Full Stack Developer**
 
  👨‍💻 All of my projects are available at [https://github.com/furkanislek](https://github.com/furkanislek)
 
  📝 I regularly write articles on [furkanislek.app](https://furkanislek.vercel.app/)
   
- 💬 Ask me about **Html, Css, Javascript, React, Redux and Redux Toolkit**
+ 💬 Ask me about **Html, Css, Javascript, React, Redux, Redux Toolkit, MySQL, SQL, PostgreSQL, Express, NodeJs, Python**
 
  📫 How to reach me **furkanakifislek@gmail.com**
 
