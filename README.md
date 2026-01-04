@@ -21,7 +21,7 @@
 
 👯 I’m looking to collaborate on **HTML, CSS, JavaScript, React, Redux, Next.js, Express, Node.js, TypeScript, PostgreSQL, MongoDB, MySQL, C#**
 
-📝 I regularly write articles on [https://furkanislek.vercel.app/](https://furkanislek.vercel.app/)
+📝 I regularly write articles on [https://furkanislek.com/](https://furkanislek.com/)
 
 📫 How to reach me: **furkanakifislek@gmail.com**
 
